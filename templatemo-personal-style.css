@@ -330,7 +330,9 @@ https://templatemo.com/tm-593-personal-shape
             display: flex;
             align-items: center;
             justify-content: center;
-            background: var(--gradient-elegant);
+            background-image: url('images/HOME.png');/*var(--gradient-elegant);*/
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
             position: relative;
             overflow: hidden;
         }
@@ -656,7 +658,7 @@ https://templatemo.com/tm-593-personal-shape
         .about-image {
             width: 100%;
             height: 500px;
-            background: url('images/smiling-girl-computer-desktop.jpg') center/cover;
+            background: url('images/PARTICIPA.png') center/cover;
             border-radius: 30px;
             position: relative;
             overflow: hidden;
@@ -771,7 +773,7 @@ https://templatemo.com/tm-593-personal-shape
         }
 
         .portfolio-item:nth-child(1) .portfolio-image {
-            background-image: url('images/working-business-women.jpg');
+            background-image: url('images/PARTICIPA.png');
         }
 
         .portfolio-item:nth-child(2) .portfolio-image {
