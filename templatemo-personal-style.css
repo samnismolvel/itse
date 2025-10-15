@@ -328,9 +328,11 @@ https://templatemo.com/tm-593-personal-shape
         .hero {
             height: 100vh;
             display: flex;
+            align-items: center;
+            justify-content: center;
             background-image: url('images/HOME.png');/*var(--gradient-elegant);*/
             background-repeat: no-repeat;
-            background-size: cover;
+            background-size: 100% 100%;
             position: relative;
             overflow: hidden;
         }
