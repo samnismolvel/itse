@@ -330,7 +330,7 @@ https://templatemo.com/tm-593-personal-shape
             display: flex;
             align-items: center;
             justify-content: center;
-            background-image: url('images/HOME.png');/*var(--gradient-elegant);*/
+            background-image: url('images/PORTADA.png');/*var(--gradient-elegant);*/
             background-repeat: no-repeat;
             background-size: 100% 100%;
             position: relative;
@@ -735,7 +735,7 @@ https://templatemo.com/tm-593-personal-shape
 
         .portfolio-grid {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(2, 1fr);
             gap: 3rem;
             margin-top: 2rem;
         }
