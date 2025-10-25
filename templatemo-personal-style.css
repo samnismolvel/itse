@@ -697,7 +697,10 @@ https://templatemo.com/tm-593-personal-shape
             font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
             font-size: 2.5rem;
             margin-bottom: 2rem;
-            color: var(--text-primary);
+            background: var(--gradient-elegant);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
             font-weight: 500;
             line-height: 1.3;
         }
