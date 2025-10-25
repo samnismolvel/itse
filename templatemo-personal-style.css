@@ -338,8 +338,8 @@ https://templatemo.com/tm-593-personal-shape
         }
 
         .reg-link{
-            color: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
-            
+            color: white;
+            font-size: large;
         }
 
         .hero::before {
