@@ -703,6 +703,8 @@ https://templatemo.com/tm-593-personal-shape
         .about-text h3 {
             font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
             font-size: 2.5rem;
+            text-align: center;
+            justify-self: center;
             margin-bottom: 2rem;
             background: var(--gradient-elegant);
             -webkit-background-clip: text;
@@ -724,6 +726,7 @@ https://templatemo.com/tm-593-personal-shape
             -webkit-background-clip: text;
             background-clip: text;
             -webkit-text-fill-color: transparent;
+            text-align: center;
         }
 
         .portfolio-content p{
