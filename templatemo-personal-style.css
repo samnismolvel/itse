@@ -611,6 +611,13 @@ https://templatemo.com/tm-593-personal-shape
             padding: 0 2rem;
         }
 
+        h4 a{
+            background: var(--gradient-elegant);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
         .section-title {
             text-align: center;
             font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
@@ -708,10 +715,20 @@ https://templatemo.com/tm-593-personal-shape
         .about-text p {
             font-size: 1.1rem;
             color: var(--text-secondary);
-            margin-bottom: 2rem;
+            margin-bottom: 1rem;
             line-height: 1.8;
         }
 
+        .container h3{
+            background: var(--gradient-elegant);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .portfolio-content p{
+            font-size: 1.2rem;
+        }
         .skills {
             display: flex;
             gap: 1rem;
@@ -783,11 +800,11 @@ https://templatemo.com/tm-593-personal-shape
         }
 
         .portfolio-item:nth-child(1) .portfolio-image {
-            background-image: url('images/PARTICIPA.png');
+            background-image: url('images/bg.png');
         }
 
         .portfolio-item:nth-child(2) .portfolio-image {
-            background-image: url('images/computer-desk-stickers.jpg');
+            background-image: url('images/bg.png');
         }
 
         .portfolio-item:nth-child(3) .portfolio-image {
