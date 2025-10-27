@@ -803,11 +803,11 @@ https://templatemo.com/tm-593-personal-shape
         }
 
         .portfolio-item:nth-child(1) .portfolio-image {
-            background-image: url('images/bg.png');
+            background-image: url('images/encuesta.png');
         }
 
         .portfolio-item:nth-child(2) .portfolio-image {
-            background-image: url('images/bg.png');
+            background-image: url('images/encuesta.png');
         }
 
         .portfolio-item:nth-child(3) .portfolio-image {
@@ -823,7 +823,8 @@ https://templatemo.com/tm-593-personal-shape
         }
 
         .portfolio-item:nth-child(6) .portfolio-image {
-            background-image: url('images/portfolio-website-girl.jpg');
+            background-image: url('images/encuesta.png');
+
         }
 
         .portfolio-image::before {
