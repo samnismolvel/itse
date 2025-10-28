@@ -726,6 +726,14 @@ https://templatemo.com/tm-593-personal-shape
             justify-content: center;
         }
 
+        .vert-vid h2 {
+            background: var(--gradient-elegant);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-align: center;
+        }
+
         .container h3{
             background: var(--gradient-elegant);
             -webkit-background-clip: text;
