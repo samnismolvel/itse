@@ -721,6 +721,10 @@ https://templatemo.com/tm-593-personal-shape
             line-height: 1.8;
         }
 
+        .vert-vid{
+            justify-self: center;
+        }
+
         .container h3{
             background: var(--gradient-elegant);
             -webkit-background-clip: text;
