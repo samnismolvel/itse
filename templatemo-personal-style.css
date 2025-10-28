@@ -722,7 +722,8 @@ https://templatemo.com/tm-593-personal-shape
         }
 
         .vert-vid{
-            justify-self: center;
+            display: flex;
+            justify-content: center;
         }
 
         .container h3{
@@ -775,8 +776,6 @@ https://templatemo.com/tm-593-personal-shape
         }
 
         .portfolio-item {
-            display: flex;
-            justify-content: center;
             background: var(--bg-card);
             border-radius: 25px;
             overflow: hidden;
