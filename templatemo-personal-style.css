@@ -670,9 +670,9 @@ https://templatemo.com/tm-593-personal-shape
         }
 
         .about-image {
-            width: 100%;
+            width: 115%;
             height: 500px;
-            background: url('images/PARTICIPA.png') center/cover;
+            background: url('images/CHICAS-STEM.PNG') center/cover;
             border-radius: 30px;
             position: relative;
             overflow: hidden;
@@ -816,11 +816,11 @@ https://templatemo.com/tm-593-personal-shape
         }
 
         .portfolio-item:nth-child(1) .portfolio-image {
-            background-image: url('images/encuesta.png');
+            background-image: url('images/2-ada.JPG');
         }
 
         .portfolio-item:nth-child(2) .portfolio-image {
-            background-image: url('images/encuesta.png');
+            background-image: url('images/4-ada.JPG');
         }
 
         .portfolio-item:nth-child(3) .portfolio-image {
