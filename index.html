@@ -43,17 +43,17 @@ https://templatemo.com/tm-593-personal-shape
 <script>
   document.addEventListener('DOMContentLoaded', async () => {
     try {
-      const counterKey = 'itse-c-' + window.location.pathname;
+      const counterKey = 'micrositio-' + window.location.pathname;
       const alreadyCounted = localStorage.getItem(counterKey);
 
       let result;
       const counter = new Counter({ workspace: 'itse' });
 
       if (!alreadyCounted) {
-        result = await counter.up('itse-c');
+        result = await counter.up('micrositio');
         localStorage.setItem(counterKey, 'true');
       } else {
-        result = await counter.get('itse-c');
+        result = await counter.get('micrositio');
       }
 
       document.getElementById('view-count').textContent = result.data.up_count;
